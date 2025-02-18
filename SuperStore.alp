@@ -2327,7 +2327,7 @@
 						<Interval>
 							<Start>28800000</Start>
 							<End>32400000</End>
-							<Value>0</Value>
+							<Value>3</Value>
 						</Interval>
 						<Interval>
 							<Start>32400000</Start>
@@ -2382,17 +2382,17 @@
 						<Interval>
 							<Start>68400000</Start>
 							<End>72000000</End>
-							<Value>4</Value>
+							<Value>5</Value>
 						</Interval>
 						<Interval>
 							<Start>72000000</Start>
 							<End>75600000</End>
-							<Value>3</Value>
+							<Value>5</Value>
 						</Interval>
 						<Interval>
 							<Start>75600000</Start>
 							<End>79200000</End>
-							<Value>3</Value>
+							<Value>5</Value>
 						</Interval>
 						<Interval>
 							<Start>79200000</Start>
@@ -3072,121 +3072,41 @@
 					<Intervals>
 						<Interval>
 							<Start>0</Start>
-							<End>3600000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>3600000</Start>
-							<End>7200000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>7200000</Start>
-							<End>10800000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>10800000</Start>
-							<End>14400000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>14400000</Start>
-							<End>18000000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>18000000</Start>
 							<End>21600000</End>
 							<Value>1</Value>
 						</Interval>
 						<Interval>
 							<Start>21600000</Start>
-							<End>25200000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>25200000</Start>
 							<End>28800000</End>
-							<Value>1</Value>
+							<Value>2</Value>
 						</Interval>
 						<Interval>
 							<Start>28800000</Start>
-							<End>32400000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>32400000</Start>
 							<End>36000000</End>
-							<Value>1</Value>
+							<Value>3</Value>
 						</Interval>
 						<Interval>
 							<Start>36000000</Start>
-							<End>39600000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>39600000</Start>
-							<End>43200000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>43200000</Start>
-							<End>46800000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>46800000</Start>
-							<End>50400000</End>
-							<Value>2</Value>
-						</Interval>
-						<Interval>
-							<Start>50400000</Start>
-							<End>54000000</End>
-							<Value>2</Value>
-						</Interval>
-						<Interval>
-							<Start>54000000</Start>
 							<End>57600000</End>
-							<Value>1</Value>
+							<Value>2</Value>
 						</Interval>
 						<Interval>
 							<Start>57600000</Start>
-							<End>61200000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>61200000</Start>
 							<End>64800000</End>
-							<Value>2</Value>
+							<Value>3</Value>
 						</Interval>
 						<Interval>
 							<Start>64800000</Start>
-							<End>68400000</End>
-							<Value>2</Value>
-						</Interval>
-						<Interval>
-							<Start>68400000</Start>
 							<End>72000000</End>
-							<Value>1</Value>
+							<Value>4</Value>
 						</Interval>
 						<Interval>
 							<Start>72000000</Start>
-							<End>75600000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>75600000</Start>
 							<End>79200000</End>
-							<Value>1</Value>
+							<Value>2</Value>
 						</Interval>
 						<Interval>
 							<Start>79200000</Start>
-							<End>82800000</End>
-							<Value>1</Value>
-						</Interval>
-						<Interval>
-							<Start>82800000</Start>
 							<End>86400000</End>
 							<Value>1</Value>
 						</Interval>
@@ -3213,7 +3133,7 @@
 					<RepeatTime>86400000</RepeatTime>
 					<RepeatTimeInterval>days</RepeatTimeInterval>
 					<IsSnapTo>false</IsSnapTo>
-					<SnapTo>1508333287283</SnapTo>
+					<SnapTo>1739836800634</SnapTo>
 					<SnapToTimeUnits>minutes</SnapToTimeUnits>
 					<AllDayExceptionMode>false</AllDayExceptionMode>
 					<LoadFromDatabase><![CDATA[false]]></LoadFromDatabase>
@@ -3230,123 +3150,58 @@
 					<Intervals>
 						<Interval>
 							<Start>0</Start>
-							<End>3600000</End>
-							<Value>10.0</Value>
-						</Interval>
-						<Interval>
-							<Start>3600000</Start>
 							<End>7200000</End>
 							<Value>10.0</Value>
 						</Interval>
 						<Interval>
 							<Start>7200000</Start>
-							<End>10800000</End>
-							<Value>10.0</Value>
-						</Interval>
-						<Interval>
-							<Start>10800000</Start>
 							<End>14400000</End>
-							<Value>10.0</Value>
+							<Value>3.0</Value>
 						</Interval>
 						<Interval>
 							<Start>14400000</Start>
-							<End>18000000</End>
-							<Value>10.0</Value>
-						</Interval>
-						<Interval>
-							<Start>18000000</Start>
 							<End>21600000</End>
-							<Value>10.0</Value>
+							<Value>12.0</Value>
 						</Interval>
 						<Interval>
 							<Start>21600000</Start>
-							<End>25200000</End>
-							<Value>10.0</Value>
-						</Interval>
-						<Interval>
-							<Start>25200000</Start>
 							<End>28800000</End>
-							<Value>10.0</Value>
-						</Interval>
-						<Interval>
-							<Start>28800000</Start>
-							<End>32400000</End>
-							<Value>20.0</Value>
-						</Interval>
-						<Interval>
-							<Start>32400000</Start>
-							<End>36000000</End>
 							<Value>30.0</Value>
 						</Interval>
 						<Interval>
-							<Start>36000000</Start>
-							<End>39600000</End>
-							<Value>40.0</Value>
+							<Start>28800000</Start>
+							<End>36000000</End>
+							<Value>80.0</Value>
 						</Interval>
 						<Interval>
-							<Start>39600000</Start>
+							<Start>36000000</Start>
 							<End>43200000</End>
 							<Value>50.0</Value>
 						</Interval>
 						<Interval>
 							<Start>43200000</Start>
-							<End>46800000</End>
-							<Value>60.0</Value>
-						</Interval>
-						<Interval>
-							<Start>46800000</Start>
-							<End>50400000</End>
-							<Value>70.0</Value>
-						</Interval>
-						<Interval>
-							<Start>50400000</Start>
-							<End>54000000</End>
-							<Value>60.0</Value>
-						</Interval>
-						<Interval>
-							<Start>54000000</Start>
 							<End>57600000</End>
-							<Value>50.0</Value>
+							<Value>35.0</Value>
 						</Interval>
 						<Interval>
 							<Start>57600000</Start>
-							<End>61200000</End>
-							<Value>40.0</Value>
-						</Interval>
-						<Interval>
-							<Start>61200000</Start>
 							<End>64800000</End>
 							<Value>50.0</Value>
 						</Interval>
 						<Interval>
 							<Start>64800000</Start>
-							<End>68400000</End>
-							<Value>60.0</Value>
-						</Interval>
-						<Interval>
-							<Start>68400000</Start>
 							<End>72000000</End>
-							<Value>50.0</Value>
+							<Value>90.0</Value>
 						</Interval>
 						<Interval>
 							<Start>72000000</Start>
-							<End>75600000</End>
-							<Value>40.0</Value>
-						</Interval>
-						<Interval>
-							<Start>75600000</Start>
 							<End>79200000</End>
-							<Value>30.0</Value>
+							<Value>60.0</Value>
 						</Interval>
 						<Interval>
 							<Start>79200000</Start>
-							<End>81000000</End>
-							<Value>20.0</Value>
-						</Interval>
-						<Interval>
-							<Start>81000000</Start>
 							<End>86400000</End>
-							<Value>10.0</Value>
+							<Value>20.0</Value>
 						</Interval>
 					</Intervals>
 					<Exceptions>
@@ -10199,22 +10054,16 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 								<EntityEmbeddedObject>
 									<ActiveObjectClass>
 										<PackageName><![CDATA[superstore]]></PackageName>
-										<ClassName><![CDATA[Product]]></ClassName>
+										<ClassName><![CDATA[ProductMilk]]></ClassName>
 									</ActiveObjectClass>
 									<GenericParameterSubstitute>
 										<GenericParameterSubstituteReference>
 											<PackageName><![CDATA[superstore]]></PackageName>
-											<ClassName><![CDATA[Product]]></ClassName>
-											<ItemName><![CDATA[1739656024418]]></ItemName>
+											<ClassName><![CDATA[ProductMilk]]></ClassName>
+											<ItemName><![CDATA[1739898260328]]></ItemName>
 										</GenericParameterSubstituteReference>
 									</GenericParameterSubstitute>
 									<Parameters>
-										<Parameter>
-											<Name><![CDATA[quantity]]></Name>
-										</Parameter>
-										<Parameter>
-											<Name><![CDATA[type]]></Name>
-										</Parameter>
 									</Parameters>
 									<ReplicationFlag>true</ReplicationFlag>
 									<Replication Class="CodeValue">
@@ -10972,7 +10821,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 							<ItemName><![CDATA[1412336242930]]></ItemName>
 						</GenericParameterSubstituteReference>
 						<GenericParameterSubstituteValue Class="CodeValue">
-							<Code><![CDATA[Product]]></Code>
+							<Code><![CDATA[ProductMilk]]></Code>
 						</GenericParameterSubstituteValue>
 					</GenericParameterSubstitute>
 					<Parameters>
@@ -12083,22 +11932,16 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 								<EntityEmbeddedObject>
 									<ActiveObjectClass>
 										<PackageName><![CDATA[superstore]]></PackageName>
-										<ClassName><![CDATA[Product]]></ClassName>
+										<ClassName><![CDATA[ProductFruitVegetables]]></ClassName>
 									</ActiveObjectClass>
 									<GenericParameterSubstitute>
 										<GenericParameterSubstituteReference>
 											<PackageName><![CDATA[superstore]]></PackageName>
-											<ClassName><![CDATA[Product]]></ClassName>
-											<ItemName><![CDATA[1739656024418]]></ItemName>
+											<ClassName><![CDATA[ProductFruitVegetables]]></ClassName>
+											<ItemName><![CDATA[1739898929872]]></ItemName>
 										</GenericParameterSubstituteReference>
 									</GenericParameterSubstitute>
 									<Parameters>
-										<Parameter>
-											<Name><![CDATA[quantity]]></Name>
-										</Parameter>
-										<Parameter>
-											<Name><![CDATA[type]]></Name>
-										</Parameter>
 									</Parameters>
 									<ReplicationFlag>true</ReplicationFlag>
 									<Replication Class="CodeValue">
@@ -12856,7 +12699,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 							<ItemName><![CDATA[1412336242930]]></ItemName>
 						</GenericParameterSubstituteReference>
 						<GenericParameterSubstituteValue Class="CodeValue">
-							<Code><![CDATA[Product]]></Code>
+							<Code><![CDATA[ProductFruitVegetables]]></Code>
 						</GenericParameterSubstituteValue>
 					</GenericParameterSubstitute>
 					<Parameters>
@@ -15215,6 +15058,138 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<LevelVisibility>DIM_NON_CURRENT</LevelVisibility>
 
 			<Presentation>
+				<Rectangle>
+					<Id>1739896770289</Id>
+					<Name><![CDATA[rectangle9]]></Name>
+					<X>0</X><Y>0</Y>
+					<Label><X>10</X><Y>10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<Width>500</Width>
+					<Height>590</Height>
+					<Rotation>0.0</Rotation>
+					<FillColor>-3318692</FillColor>
+					<FillMaterial>grass</FillMaterial>
+				</Rectangle>
+				<Rectangle>
+					<Id>1739896732711</Id>
+					<Name><![CDATA[rectangle8]]></Name>
+					<X>50</X><Y>50</Y>
+					<Label><X>10</X><Y>10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<Width>400</Width>
+					<Height>450</Height>
+					<Rotation>0.0</Rotation>
+					<FillColor>-3318692</FillColor>
+					<FillMaterial>snow</FillMaterial>
+				</Rectangle>
+				<Rectangle>
+					<Id>1739896681295</Id>
+					<Name><![CDATA[rectangle6]]></Name>
+					<X>50</X><Y>50</Y>
+					<Label><X>10</X><Y>10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<Width>60</Width>
+					<Height>50</Height>
+					<Rotation>0.0</Rotation>
+					<FillColor>-3318692</FillColor>
+					<FillMaterial>brickWhite</FillMaterial>
+				</Rectangle>
+				<Rectangle>
+					<Id>1739896652143</Id>
+					<Name><![CDATA[rectangle5]]></Name>
+					<X>330</X><Y>500</Y>
+					<Label><X>10</X><Y>10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<Width>90</Width>
+					<Height>60</Height>
+					<Rotation>0.0</Rotation>
+					<FillColor>-3318692</FillColor>
+					<FillMaterial>concrete</FillMaterial>
+				</Rectangle>
+				<Rectangle>
+					<Id>1739896636726</Id>
+					<Name><![CDATA[rectangle4]]></Name>
+					<X>180</X><Y>500</Y>
+					<Label><X>10</X><Y>10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<Width>90</Width>
+					<Height>60</Height>
+					<Rotation>0.0</Rotation>
+					<FillColor>-3318692</FillColor>
+					<FillMaterial>concrete</FillMaterial>
+				</Rectangle>
+				<Rectangle>
+					<Id>1739896604170</Id>
+					<Name><![CDATA[rectangle3]]></Name>
+					<X>380</X><Y>50</Y>
+					<Label><X>10</X><Y>10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<Width>70</Width>
+					<Height>80</Height>
+					<Rotation>0.0</Rotation>
+					<FillColor>-3318692</FillColor>
+					<FillMaterial>concrete</FillMaterial>
+				</Rectangle>
 				<Image>
 					<Id>1739712833021</Id>
 					<Name><![CDATA[image]]></Name>
@@ -15573,7 +15548,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<Width>10</Width>
 					<Height>80</Height>
 					<Rotation>0.0</Rotation>
-					<FillColor>-1</FillColor>
+					<FillColor>-3318692</FillColor>
 					<FillMaterial>null</FillMaterial>
 				</Rectangle>
 				<Rectangle>
@@ -15595,7 +15570,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<Width>10</Width>
 					<Height>80</Height>
 					<Rotation>0.0</Rotation>
-					<FillColor>-1</FillColor>
+					<FillColor>-7876885</FillColor>
 					<FillMaterial>null</FillMaterial>
 				</Rectangle>
 				<Rectangle>
@@ -15617,7 +15592,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<Width>10</Width>
 					<Height>80</Height>
 					<Rotation>0.0</Rotation>
-					<FillColor>-1</FillColor>
+					<FillColor>-10496</FillColor>
 					<FillMaterial>null</FillMaterial>
 				</Rectangle>
 				<RectangleNode>
@@ -21047,10 +21022,46 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<Height>50</Height>
 					<Rotation>0.0</Rotation>
 				</RectangleNode>
+				<Rectangle>
+					<Id>1739896850076</Id>
+					<Name><![CDATA[rectangle7]]></Name>
+					<X>70</X><Y>0</Y>
+					<Label><X>10</X><Y>10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<Width>20</Width>
+					<Height>50</Height>
+					<Rotation>0.0</Rotation>
+					<FillColor>-3318692</FillColor>
+					<FillMaterial>tarmac</FillMaterial>
+				</Rectangle>
 			</Presentation>
 
 				</Level>
 			</Presentation>
+			<Areas>
+				<Area>
+					<Id>1739898004455</Id>
+					<Name><![CDATA[viewArea]]></Name>
+					<X>0</X><Y>0</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Title><![CDATA[]]></Title>
+					<Width>1600</Width>
+					<Height>1000</Height>
+				</Area>
+			</Areas>
 
 		</ActiveObjectClass>
 		<!--   =========   Active Object Class   ========  -->
@@ -21619,55 +21630,271 @@ for (String category : categories) {
 					<LevelVisibility>DIM_NON_CURRENT</LevelVisibility>
 
 			<Presentation>
-				<Figure3D>
-					<Id>1739651341123</Id>
-					<Name><![CDATA[person]]></Name>
-					<X>0</X><Y>0</Y>
-					<Label><X>0</X><Y>-10</Y></Label>
+				<Group>
+					<Id>1739894473348</Id>
+					<Name><![CDATA[customer_icon]]></Name>
+					<X>0</X><Y>1</Y>
+					<Label><X>-22.167</X><Y>22.727</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Rotation>180.0</Rotation>
+
+			<Presentation>
+				<Curve ControlPoints="true">
+					<Id>1739894473350</Id>
+					<Name><![CDATA[_ps25]]></Name>
+					<X>-2.333</X><Y>10.227</Y>
+					<Label><X>-20</X><Y>40</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor>-16777216</FillColor>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>4.667</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>4.667</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>4.667</X><Y>-1.136</Y><Z>0</Z></Point>
+					   <Point><X>4.667</X><Y>-1.136</Y><Z>0</Z></Point>
+					   <Point><X>2.333</X><Y>-1.136</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>-1.136</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>-1.136</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>true</Closed>
+				</Curve>
+				<Curve ControlPoints="true">
+					<Id>1739894473352</Id>
+					<Name><![CDATA[_ps26]]></Name>
+					<X>1.167</X><Y>9.091</Y>
+					<Label><X>-20</X><Y>40</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor>-14774017</FillColor>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-2.333</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-2.333</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-2.333</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-3.5</X><Y>-9.091</Y><Z>0</Z></Point>
+					   <Point><X>-3.5</X><Y>-9.091</Y><Z>0</Z></Point>
+					   <Point><X>-3.5</X><Y>-9.091</Y><Z>0</Z></Point>
+					   <Point><X>1.167</X><Y>-9.091</Y><Z>0</Z></Point>
+					   <Point><X>1.167</X><Y>-9.091</Y><Z>0</Z></Point>
+					   <Point><X>1.167</X><Y>-9.091</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>true</Closed>
+				</Curve>
+				<Curve ControlPoints="true">
+					<Id>1739894473354</Id>
+					<Name><![CDATA[_ps27]]></Name>
+					<X>0</X><Y>-4.545</Y>
+					<Label><X>-20</X><Y>40</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor/>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor>-1722998</FillColor>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>2.333</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>3.5</X><Y>-4.545</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>-4.545</Y><Z>0</Z></Point>
+					   <Point><X>-3.5</X><Y>-4.545</Y><Z>0</Z></Point>
+					   <Point><X>-2.333</X><Y>0</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>true</Closed>
+				</Curve>
+				<Curve ControlPoints="true">
+					<Id>1739894473356</Id>
+					<Name><![CDATA[_ps28]]></Name>
+					<X>-1.167</X><Y>-4.545</Y>
+					<Label><X>-20</X><Y>40</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor>-5952982</FillColor>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-2.333</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-2.333</X><Y>4.545</Y><Z>0</Z></Point>
+					   <Point><X>-2.333</X><Y>4.545</Y><Z>0</Z></Point>
+					   <Point><X>-2.333</X><Y>4.545</Y><Z>0</Z></Point>
+					   <Point><X>-1.167</X><Y>5.682</Y><Z>0</Z></Point>
+					   <Point><X>-1.167</X><Y>5.682</Y><Z>0</Z></Point>
+					   <Point><X>-1.167</X><Y>5.682</Y><Z>0</Z></Point>
+					   <Point><X>-1.167</X><Y>7.955</Y><Z>0</Z></Point>
+					   <Point><X>-1.167</X><Y>7.955</Y><Z>0</Z></Point>
+					   <Point><X>-1.167</X><Y>7.955</Y><Z>0</Z></Point>
+					   <Point><X>3.5</X><Y>7.955</Y><Z>0</Z></Point>
+					   <Point><X>3.5</X><Y>7.955</Y><Z>0</Z></Point>
+					   <Point><X>3.5</X><Y>7.955</Y><Z>0</Z></Point>
+					   <Point><X>3.5</X><Y>5.682</Y><Z>0</Z></Point>
+					   <Point><X>3.5</X><Y>5.682</Y><Z>0</Z></Point>
+					   <Point><X>3.5</X><Y>5.682</Y><Z>0</Z></Point>
+					   <Point><X>4.667</X><Y>4.545</Y><Z>0</Z></Point>
+					   <Point><X>4.667</X><Y>4.545</Y><Z>0</Z></Point>
+					   <Point><X>4.667</X><Y>4.545</Y><Z>0</Z></Point>
+					   <Point><X>4.667</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>2.333</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>2.333</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>1.167</X><Y>1.136</Y><Z>0</Z></Point>
+					   <Point><X>1.167</X><Y>1.136</Y><Z>0</Z></Point>
+					   <Point><X>1.167</X><Y>1.136</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>true</Closed>
+				</Curve>
+				<Line>
+					<Id>1739894473358</Id>
+					<Name><![CDATA[_ps29]]></Name>
+					<X>2.333</X><Y>1.136</Y>
+					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<X>0</X><Y>0</Y><Z>0</Z>
-					<Label><X>0</X><Y>-10</Y></Label>
-					<ResourceReference>
-						<PackageName><![CDATA[superstore]]></PackageName>
-						<ClassName><![CDATA[3d/person.dae]]></ClassName>
-					</ResourceReference>
-					<ColorTable>
-						<ColorMapping>
-							<Name><![CDATA[Material__3__Surf]]></Name>
-							<OriginalColor>-3355444</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__5__Surf]]></Name>
-							<OriginalColor>-3355444</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__6__Surf]]></Name>
-							<OriginalColor>-4083577</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__2__Surf]]></Name>
-							<OriginalColor>-13355980</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__4__Surf]]></Name>
-							<OriginalColor>-13355980</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__1__Surf]]></Name>
-							<OriginalColor>-5279952</OriginalColor>
-						</ColorMapping>
-					</ColorTable>
-					<AutoScale>true</AutoScale>
-					<Scale>1.0</Scale>
-					<Rotation>0.0</Rotation>
-					<AxisOrder>YZX_AXIS_ORDER</AxisOrder>
-					<ApplyShading>true</ApplyShading>
-					<InternalLighting>OFF</InternalLighting>
-					<IgnoreSceneLights>false</IgnoreSceneLights>
-</Figure3D>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<Dx>-3</Dx>
+					<Dy>-2</Dy>
+					<Dz>0</Dz>
+				</Line>
+				<Polyline>
+					<Id>1739894473360</Id>
+					<Name><![CDATA[_ps30]]></Name>
+					<X>-2.333</X><Y>1.136</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor/>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>3.5</X><Y>-2.273</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>false</Closed>
+				</Polyline>
+				<Curve ControlPoints="true">
+					<Id>1739894473362</Id>
+					<Name><![CDATA[_ps31]]></Name>
+					<X>2.333</X><Y>-6.818</Y>
+					<Label><X>-20</X><Y>40</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor/>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor>-10340825</FillColor>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>-3.409</Y><Z>0</Z></Point>
+					   <Point><X>-4.667</X><Y>-3.409</Y><Z>0</Z></Point>
+					   <Point><X>-4.667</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-4.667</X><Y>1.136</Y><Z>0</Z></Point>
+					   <Point><X>-3.5</X><Y>-1.136</Y><Z>0</Z></Point>
+					   <Point><X>-3.5</X><Y>-1.136</Y><Z>0</Z></Point>
+					   <Point><X>-2.333</X><Y>-1.136</Y><Z>0</Z></Point>
+					   <Point><X>-2.333</X><Y>-1.136</Y><Z>0</Z></Point>
+					   <Point><X>-1.167</X><Y>-1.136</Y><Z>0</Z></Point>
+					   <Point><X>-1.167</X><Y>-1.136</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>1.136</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>true</Closed>
+				</Curve>
+			</Presentation>
+
+				</Group>
 			</Presentation>
 
 				</Level>
@@ -22232,51 +22459,28 @@ for (String category : categories) {
 					<LevelVisibility>DIM_NON_CURRENT</LevelVisibility>
 
 			<Presentation>
-				<Figure3D>
-					<Id>1739655607520</Id>
-					<Name><![CDATA[officeWorker]]></Name>
-					<X>0</X><Y>0</Y>
+				<Image>
+					<Id>1739895895686</Id>
+					<Name><![CDATA[image1]]></Name>
+					<X>-12</X><Y>-10</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<X>0</X><Y>0</Y><Z>0</Z>
-					<Label><X>0</X><Y>-10</Y></Label>
-					<ResourceReference>
-						<PackageName><![CDATA[superstore]]></PackageName>
-						<ClassName><![CDATA[3d/officeworker.dae]]></ClassName>
-					</ResourceReference>
-					<ColorTable>
-						<ColorMapping>
-							<Name><![CDATA[Material__1__Surf]]></Name>
-							<OriginalColor>-3407872</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__2__Surf]]></Name>
-							<OriginalColor>-12434878</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__3__Surf]]></Name>
-							<OriginalColor>-9353174</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__4__Surf]]></Name>
-							<OriginalColor>-3355444</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__5__Surf]]></Name>
-							<OriginalColor>-3361145</OriginalColor>
-						</ColorMapping>
-					</ColorTable>
-					<AutoScale>true</AutoScale>
-					<Scale>1.0</Scale>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Width>22.083</Width>
+					<Height>20.625</Height>
 					<Rotation>0.0</Rotation>
-					<AxisOrder>YZX_AXIS_ORDER</AxisOrder>
-					<ApplyShading>true</ApplyShading>
-					<InternalLighting>OFF</InternalLighting>
-					<IgnoreSceneLights>false</IgnoreSceneLights>
-</Figure3D>
+					<ImageFiles>
+						<ImageResourceReference>
+							<PackageName><![CDATA[superstore]]></PackageName>
+							<ClassName><![CDATA[image4.png]]></ClassName>
+						</ImageResourceReference>
+					</ImageFiles>
+					<OriginalSize>false</OriginalSize>
+				</Image>
 			</Presentation>
 
 				</Level>
@@ -22414,55 +22618,289 @@ for (String category : categories) {
 					<LevelVisibility>DIM_NON_CURRENT</LevelVisibility>
 
 			<Presentation>
-				<Figure3D>
-					<Id>1739655953609</Id>
-					<Name><![CDATA[worker]]></Name>
-					<X>0</X><Y>0</Y>
-					<Label><X>0</X><Y>-10</Y></Label>
+				<Group>
+					<Id>1739896203750</Id>
+					<Name><![CDATA[doctor]]></Name>
+					<X>0</X><Y>-1</Y>
+					<Label><X>-20</X><Y>20</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Rotation>0.0</Rotation>
+
+			<Presentation>
+				<Polyline>
+					<Id>1739896203752</Id>
+					<Name><![CDATA[_ps16]]></Name>
+					<X>0</X><Y>-2</Y>
+					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<X>0</X><Y>0</Y><Z>0</Z>
-					<Label><X>0</X><Y>-10</Y></Label>
-					<ResourceReference>
-						<PackageName><![CDATA[superstore]]></PackageName>
-						<ClassName><![CDATA[3d/worker.dae]]></ClassName>
-					</ResourceReference>
-					<ColorTable>
-						<ColorMapping>
-							<Name><![CDATA[<Color1>]]></Name>
-							<OriginalColor>-3355444</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__4__Surf]]></Name>
-							<OriginalColor>-3355444</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__2__Surf]]></Name>
-							<OriginalColor>-4483748</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__6__Surf]]></Name>
-							<OriginalColor>-14056500</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__5__Surf]]></Name>
-							<OriginalColor>-3372544</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material__3__Surf]]></Name>
-							<OriginalColor>-13624320</OriginalColor>
-						</ColorMapping>
-					</ColorTable>
-					<AutoScale>true</AutoScale>
-					<Scale>1.0</Scale>
-					<Rotation>0.0</Rotation>
-					<AxisOrder>YZX_AXIS_ORDER</AxisOrder>
-					<ApplyShading>true</ApplyShading>
-					<InternalLighting>OFF</InternalLighting>
-					<IgnoreSceneLights>false</IgnoreSceneLights>
-</Figure3D>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor/>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor>-1</FillColor>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>2</X><Y>-2</Y><Z>0</Z></Point>
+					   <Point><X>-2</X><Y>-2</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>true</Closed>
+				</Polyline>
+				<Curve ControlPoints="true">
+					<Id>1739896203754</Id>
+					<Name><![CDATA[_ps17]]></Name>
+					<X>0.033</X><Y>-3.467</Y>
+					<Label><X>-20</X><Y>40</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor/>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor>-1722998</FillColor>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>2</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>3</X><Y>-4</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>-4</Y><Z>0</Z></Point>
+					   <Point><X>-3</X><Y>-4</Y><Z>0</Z></Point>
+					   <Point><X>-2</X><Y>0</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>true</Closed>
+				</Curve>
+				<Curve ControlPoints="true">
+					<Id>1739896203756</Id>
+					<Name><![CDATA[_ps18]]></Name>
+					<X>2</X><Y>8</Y>
+					<Label><X>-20</X><Y>40</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor/>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor>-6632142</FillColor>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-4</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-4</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-4</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-4</X><Y>-5</Y><Z>0</Z></Point>
+					   <Point><X>-4</X><Y>-5</Y><Z>0</Z></Point>
+					   <Point><X>-4</X><Y>-5</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>-5</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>-5</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>-5</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>true</Closed>
+				</Curve>
+				<Curve ControlPoints="true">
+					<Id>1739896203758</Id>
+					<Name><![CDATA[_ps19]]></Name>
+					<X>-2</X><Y>9</Y>
+					<Label><X>-20</X><Y>40</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16744320</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor>-10510688</FillColor>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>4</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>4</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>4</X><Y>-1</Y><Z>0</Z></Point>
+					   <Point><X>4</X><Y>-1</Y><Z>0</Z></Point>
+					   <Point><X>2</X><Y>-1</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>-1</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>-1</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>true</Closed>
+				</Curve>
+				<Curve ControlPoints="true">
+					<Id>1739896203760</Id>
+					<Name><![CDATA[_ps20]]></Name>
+					<X>-2</X><Y>-4</Y>
+					<Label><X>-20</X><Y>40</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16744320</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor>-6632142</FillColor>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-1</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-2</X><Y>4</Y><Z>0</Z></Point>
+					   <Point><X>-2</X><Y>4</Y><Z>0</Z></Point>
+					   <Point><X>-2</X><Y>4</Y><Z>0</Z></Point>
+					   <Point><X>-1</X><Y>6</Y><Z>0</Z></Point>
+					   <Point><X>-1</X><Y>6</Y><Z>0</Z></Point>
+					   <Point><X>-1</X><Y>6</Y><Z>0</Z></Point>
+					   <Point><X>-1</X><Y>8</Y><Z>0</Z></Point>
+					   <Point><X>-1</X><Y>8</Y><Z>0</Z></Point>
+					   <Point><X>-1</X><Y>8</Y><Z>0</Z></Point>
+					   <Point><X>5</X><Y>8</Y><Z>0</Z></Point>
+					   <Point><X>5</X><Y>8</Y><Z>0</Z></Point>
+					   <Point><X>5</X><Y>8</Y><Z>0</Z></Point>
+					   <Point><X>5</X><Y>6</Y><Z>0</Z></Point>
+					   <Point><X>5</X><Y>6</Y><Z>0</Z></Point>
+					   <Point><X>5</X><Y>6</Y><Z>0</Z></Point>
+					   <Point><X>6</X><Y>4</Y><Z>0</Z></Point>
+					   <Point><X>6</X><Y>4</Y><Z>0</Z></Point>
+					   <Point><X>6</X><Y>4</Y><Z>0</Z></Point>
+					   <Point><X>5</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>4</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>3</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>3</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>3</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>3</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>1</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>1</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>1</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>1</X><Y>0</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>true</Closed>
+				</Curve>
+				<Curve ControlPoints="true">
+					<Id>1739896203762</Id>
+					<Name><![CDATA[_ps21]]></Name>
+					<X>2</X><Y>-6</Y>
+					<Label><X>-20</X><Y>40</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor/>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor>-16777216</FillColor>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>-3</Y><Z>0</Z></Point>
+					   <Point><X>-4</X><Y>-3</Y><Z>0</Z></Point>
+					   <Point><X>-4</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>-4</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>-3</X><Y>-1</Y><Z>0</Z></Point>
+					   <Point><X>-3</X><Y>-1</Y><Z>0</Z></Point>
+					   <Point><X>-2</X><Y>-1</Y><Z>0</Z></Point>
+					   <Point><X>-2</X><Y>-1</Y><Z>0</Z></Point>
+					   <Point><X>-1</X><Y>-1</Y><Z>0</Z></Point>
+					   <Point><X>-1</X><Y>-1</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>1</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>true</Closed>
+				</Curve>
+				<Curve ControlPoints="true">
+					<Id>1739896203764</Id>
+					<Name><![CDATA[_ps22]]></Name>
+					<X>-1</X><Y>-9</Y>
+					<Label><X>-20</X><Y>40</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<ZHeight>10</ZHeight>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16744320</LineColor>
+					<LineMaterial>null</LineMaterial>
+					<LineStyle>SOLID</LineStyle>
+					<BeginArrowSize>1</BeginArrowSize>
+					<BeginArrowStyle>0</BeginArrowStyle>
+					<EndArrowSize>1</EndArrowSize>
+					<EndArrowStyle>0</EndArrowStyle>
+					<FillColor>-10510688</FillColor>
+					<FillMaterial>null</FillMaterial>
+					<Points>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>2</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>2</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>2</X><Y>1</Y><Z>0</Z></Point>
+					   <Point><X>2</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>2</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>2</X><Y>0</Y><Z>0</Z></Point>
+					   <Point><X>0</X><Y>0</Y><Z>0</Z></Point>
+					</Points>
+					<Closed>true</Closed>
+				</Curve>
+			</Presentation>
+
+				</Group>
 			</Presentation>
 
 				</Level>
@@ -22600,47 +23038,28 @@ for (String category : categories) {
 					<LevelVisibility>DIM_NON_CURRENT</LevelVisibility>
 
 			<Presentation>
-				<Figure3D>
-					<Id>1739655993487</Id>
-					<Name><![CDATA[cart]]></Name>
-					<X>0</X><Y>0</Y>
+				<Image>
+					<Id>1739897706485</Id>
+					<Name><![CDATA[image3]]></Name>
+					<X>12</X><Y>3</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<X>0</X><Y>0</Y><Z>0</Z>
-					<Label><X>0</X><Y>-10</Y></Label>
-					<ResourceReference>
-						<PackageName><![CDATA[superstore]]></PackageName>
-						<ClassName><![CDATA[3d/cart.dae]]></ClassName>
-					</ResourceReference>
-					<ColorTable>
-						<ColorMapping>
-							<Name><![CDATA[Material_(2)_Surf]]></Name>
-							<OriginalColor>-3385344</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material_(1)_Surf]]></Name>
-							<OriginalColor>-5981236</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material_(3)_Surf]]></Name>
-							<OriginalColor>-13027015</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material_(4)_Surf]]></Name>
-							<OriginalColor>-13027015</OriginalColor>
-						</ColorMapping>
-					</ColorTable>
-					<AutoScale>true</AutoScale>
-					<Scale>1.0</Scale>
-					<Rotation>270.0</Rotation>
-					<AxisOrder>YZX_AXIS_ORDER</AxisOrder>
-					<ApplyShading>true</ApplyShading>
-					<InternalLighting>OFF</InternalLighting>
-					<IgnoreSceneLights>false</IgnoreSceneLights>
-</Figure3D>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Width>18.6</Width>
+					<Height>13.6</Height>
+					<Rotation>180.0</Rotation>
+					<ImageFiles>
+						<ImageResourceReference>
+							<PackageName><![CDATA[superstore]]></PackageName>
+							<ClassName><![CDATA[image11.png]]></ClassName>
+						</ImageResourceReference>
+					</ImageFiles>
+					<OriginalSize>false</OriginalSize>
+				</Image>
 			</Presentation>
 
 				</Level>
@@ -22828,39 +23247,28 @@ for (String category : categories) {
 					<LevelVisibility>DIM_NON_CURRENT</LevelVisibility>
 
 			<Presentation>
-				<Figure3D>
-					<Id>1739656024725</Id>
-					<Name><![CDATA[box_1_closed]]></Name>
-					<X>0</X><Y>0</Y>
+				<Image>
+					<Id>1739894935117</Id>
+					<Name><![CDATA[box_icon]]></Name>
+					<X>-6.467</X><Y>-6.467</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<X>0</X><Y>0</Y><Z>0</Z>
-					<Label><X>0</X><Y>-10</Y></Label>
-					<ResourceReference>
-						<PackageName><![CDATA[superstore]]></PackageName>
-						<ClassName><![CDATA[3d/box_1_closed.dae]]></ClassName>
-					</ResourceReference>
-					<ColorTable>
-						<ColorMapping>
-							<Name><![CDATA[MA_material_27]]></Name>
-							<OriginalColor>-2107044</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[MA_material_28]]></Name>
-							<OriginalColor>-7172293</OriginalColor>
-						</ColorMapping>
-					</ColorTable>
-					<AutoScale>true</AutoScale>
-					<Scale>1.0</Scale>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Width>12.467</Width>
+					<Height>10.467</Height>
 					<Rotation>0.0</Rotation>
-					<AxisOrder>XYZ_AXIS_ORDER</AxisOrder>
-					<ApplyShading>true</ApplyShading>
-					<InternalLighting>OFF</InternalLighting>
-					<IgnoreSceneLights>false</IgnoreSceneLights>
-</Figure3D>
+					<ImageFiles>
+						<ImageResourceReference>
+							<PackageName><![CDATA[superstore]]></PackageName>
+							<ClassName><![CDATA[image3.png]]></ClassName>
+						</ImageResourceReference>
+					</ImageFiles>
+					<OriginalSize>false</OriginalSize>
+				</Image>
 			</Presentation>
 
 				</Level>
@@ -22998,51 +23406,344 @@ for (String category : categories) {
 					<LevelVisibility>DIM_NON_CURRENT</LevelVisibility>
 
 			<Presentation>
-				<Figure3D>
-					<Id>1739656111834</Id>
-					<Name><![CDATA[cashDesk]]></Name>
-					<X>0</X><Y>0</Y>
+				<Image>
+					<Id>1739895657694</Id>
+					<Name><![CDATA[image]]></Name>
+					<X>10</X><Y>-10</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<X>0</X><Y>0</Y><Z>0</Z>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Width>20</Width>
+					<Height>20</Height>
+					<Rotation>90.0</Rotation>
+					<ImageFiles>
+						<ImageResourceReference>
+							<PackageName><![CDATA[superstore]]></PackageName>
+							<ClassName><![CDATA[image2.png]]></ClassName>
+						</ImageResourceReference>
+					</ImageFiles>
+					<OriginalSize>false</OriginalSize>
+				</Image>
+			</Presentation>
+
+				</Level>
+			</Presentation>
+
+		</ActiveObjectClass>
+		<!--   =========   Active Object Class   ========  -->
+		<ActiveObjectClass>
+			<Id>1739898260322</Id>
+			<Name><![CDATA[ProductMilk]]></Name>
+			<Generic>false</Generic>
+			<GenericParameter>
+				<Id>1739898260328</Id>
+				<Name><![CDATA[1739898260328]]></Name>
+				<GenericParameterValue Class="CodeValue">
+					<Code><![CDATA[T extends Agent]]></Code>
+				</GenericParameterValue>
+				<GenericParameterLabel><![CDATA[Параметр настройки:]]></GenericParameterLabel>
+			</GenericParameter>
+			<FlowChartsUsage>RESOURCE_UNIT</FlowChartsUsage>
+			<SamplesToKeep>100</SamplesToKeep>
+			<LimitNumberOfArrayElements>false</LimitNumberOfArrayElements>
+			<ElementsLimitValue>100</ElementsLimitValue>
+			<MakeDefaultViewArea>true</MakeDefaultViewArea>
+			<SceneGridColor/>
+			<SceneBackgroundColor/>
+			<SceneSkybox>null</SceneSkybox>
+			<AgentProperties>
+				<EnvironmentDefinesInitialLocation>true</EnvironmentDefinesInitialLocation>
+				<RotateAnimationTowardsMovement>true</RotateAnimationTowardsMovement>
+				<RotateAnimationVertically>false</RotateAnimationVertically>
+				<VelocityCode Class="CodeUnitValue">
+					<Code><![CDATA[10]]></Code>
+					<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+				</VelocityCode>
+				<PhysicalLength Class="CodeUnitValue">
+					<Code><![CDATA[1]]></Code>
+					<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+				</PhysicalLength>
+				<PhysicalWidth Class="CodeUnitValue">
+					<Code><![CDATA[1]]></Code>
+					<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+				</PhysicalWidth>
+				<PhysicalHeight Class="CodeUnitValue">
+					<Code><![CDATA[1]]></Code>
+					<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+				</PhysicalHeight>
+			</AgentProperties>
+			<EnvironmentProperties>
+					<EnableSteps>false</EnableSteps>
+					<StepDurationCode Class="CodeUnitValue">
+						<Code><![CDATA[1.0]]></Code>
+						<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
+					</StepDurationCode>
+					<SpaceType>CONTINUOUS</SpaceType>
+					<WidthCode><![CDATA[500]]></WidthCode>
+					<HeightCode><![CDATA[500]]></HeightCode>
+					<ZHeightCode><![CDATA[0]]></ZHeightCode>
+					<ColumnsCountCode><![CDATA[100]]></ColumnsCountCode>
+					<RowsCountCode><![CDATA[100]]></RowsCountCode>
+					<NeigborhoodType>MOORE</NeigborhoodType>
+					<LayoutType>USER_DEF</LayoutType>
+					<NetworkType>USER_DEF</NetworkType>
+					<ConnectionsPerAgentCode><![CDATA[2]]></ConnectionsPerAgentCode>
+					<ConnectionsRangeCode><![CDATA[50]]></ConnectionsRangeCode>
+					<NeighborLinkFractionCode><![CDATA[0.95]]></NeighborLinkFractionCode>
+					<MCode><![CDATA[10]]></MCode>
+			</EnvironmentProperties>
+			<DatasetsCreationProperties>
+				<AutoCreate>true</AutoCreate>
+					<OccurrenceAtTime>true</OccurrenceAtTime>
+					<OccurrenceDate>1739952000000</OccurrenceDate>
+					<OccurrenceTime Class="CodeUnitValue">
+						<Code><![CDATA[0]]></Code>
+						<Unit Class="TimeUnits"><![CDATA[MINUTE]]></Unit>
+					</OccurrenceTime>
+					<RecurrenceCode Class="CodeUnitValue">
+						<Code><![CDATA[1]]></Code>
+						<Unit Class="TimeUnits"><![CDATA[MINUTE]]></Unit>
+					</RecurrenceCode>
+			</DatasetsCreationProperties>
+			<ScaleRuler>
+				<Id>1739898260325</Id>
+				<Name><![CDATA[scale]]></Name>
+				<X>0</X><Y>-150</Y>
+				<PublicFlag>false</PublicFlag>
+				<PresentationFlag>false</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Length>100</Length>
+				<Rotation>0</Rotation>
+				<ScaleType>BASED_ON_LENGTH</ScaleType>
+				<ModelLength>10</ModelLength>
+				<LengthUnits>METER</LengthUnits>
+				<Scale>10</Scale>
+				<InheritedFromParentAgentType>true</InheritedFromParentAgentType>
+			</ScaleRuler>
+			<CurrentLevel>1739898260329</CurrentLevel>
+			<ConnectionsId>1739898260323</ConnectionsId>
+			<AgentLinks>
+				<AgentLink>
+					<Id>1739898260323</Id>
+					<Name><![CDATA[connections]]></Name>
+					<X>50</X><Y>-50</Y>
+					<Label><X>15</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<HandleReceiveInConnections>false</HandleReceiveInConnections>
+					<AgentLinkType>COLLECTION_OF_LINKS</AgentLinkType>
+					<AgentLinkBidirectional>true</AgentLinkBidirectional>
+					<MessageType><![CDATA[Object]]></MessageType>
+					<LineStyle>SOLID</LineStyle>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineZOrder>UNDER_AGENTS</LineZOrder>
+					<LineArrow>NONE</LineArrow>
+					<LineArrowPosition>END</LineArrowPosition>
+				</AgentLink>
+			</AgentLinks>
+
+
+			<Presentation>
+				<Level>
+					<Id>1739898260329</Id>
+					<Name><![CDATA[level]]></Name>
+					<X>0</X><Y>0</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LevelVisibility>DIM_NON_CURRENT</LevelVisibility>
+
+			<Presentation>
+				<Image>
+					<Id>1739898268166</Id>
+					<Name><![CDATA[image]]></Name>
+					<X>-5</X><Y>-5</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
-					<ResourceReference>
-						<PackageName><![CDATA[superstore]]></PackageName>
-						<ClassName><![CDATA[3d/cash_desk.dae]]></ClassName>
-					</ResourceReference>
-					<ColorTable>
-						<ColorMapping>
-							<Name><![CDATA[Material_(1)_Surf]]></Name>
-							<OriginalColor>-12040120</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material_(4)_Surf]]></Name>
-							<OriginalColor>-10828110</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material_(2)_Surf]]></Name>
-							<OriginalColor>-3618616</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material_(3)_Surf]]></Name>
-							<OriginalColor>-9793861</OriginalColor>
-						</ColorMapping>
-						<ColorMapping>
-							<Name><![CDATA[Material_(5)_Surf]]></Name>
-							<OriginalColor>-9793861</OriginalColor>
-						</ColorMapping>
-					</ColorTable>
-					<AutoScale>true</AutoScale>
-					<Scale>1.0</Scale>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Width>10.4</Width>
+					<Height>8.4</Height>
 					<Rotation>0.0</Rotation>
-					<AxisOrder>YZX_AXIS_ORDER</AxisOrder>
-					<ApplyShading>true</ApplyShading>
-					<InternalLighting>OFF</InternalLighting>
-					<IgnoreSceneLights>false</IgnoreSceneLights>
-</Figure3D>
+					<ImageFiles>
+						<ImageResourceReference>
+							<PackageName><![CDATA[superstore]]></PackageName>
+							<ClassName><![CDATA[image.png]]></ClassName>
+						</ImageResourceReference>
+					</ImageFiles>
+					<OriginalSize>false</OriginalSize>
+				</Image>
+			</Presentation>
+
+				</Level>
+			</Presentation>
+
+		</ActiveObjectClass>
+		<!--   =========   Active Object Class   ========  -->
+		<ActiveObjectClass>
+			<Id>1739898929866</Id>
+			<Name><![CDATA[ProductFruitVegetables]]></Name>
+			<Generic>false</Generic>
+			<GenericParameter>
+				<Id>1739898929872</Id>
+				<Name><![CDATA[1739898929872]]></Name>
+				<GenericParameterValue Class="CodeValue">
+					<Code><![CDATA[T extends Agent]]></Code>
+				</GenericParameterValue>
+				<GenericParameterLabel><![CDATA[Параметр настройки:]]></GenericParameterLabel>
+			</GenericParameter>
+			<FlowChartsUsage>RESOURCE_UNIT</FlowChartsUsage>
+			<SamplesToKeep>100</SamplesToKeep>
+			<LimitNumberOfArrayElements>false</LimitNumberOfArrayElements>
+			<ElementsLimitValue>100</ElementsLimitValue>
+			<MakeDefaultViewArea>true</MakeDefaultViewArea>
+			<SceneGridColor/>
+			<SceneBackgroundColor/>
+			<SceneSkybox>null</SceneSkybox>
+			<AgentProperties>
+				<EnvironmentDefinesInitialLocation>true</EnvironmentDefinesInitialLocation>
+				<RotateAnimationTowardsMovement>true</RotateAnimationTowardsMovement>
+				<RotateAnimationVertically>false</RotateAnimationVertically>
+				<VelocityCode Class="CodeUnitValue">
+					<Code><![CDATA[10]]></Code>
+					<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+				</VelocityCode>
+				<PhysicalLength Class="CodeUnitValue">
+					<Code><![CDATA[1]]></Code>
+					<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+				</PhysicalLength>
+				<PhysicalWidth Class="CodeUnitValue">
+					<Code><![CDATA[1]]></Code>
+					<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+				</PhysicalWidth>
+				<PhysicalHeight Class="CodeUnitValue">
+					<Code><![CDATA[1]]></Code>
+					<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+				</PhysicalHeight>
+			</AgentProperties>
+			<EnvironmentProperties>
+					<EnableSteps>false</EnableSteps>
+					<StepDurationCode Class="CodeUnitValue">
+						<Code><![CDATA[1.0]]></Code>
+						<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
+					</StepDurationCode>
+					<SpaceType>CONTINUOUS</SpaceType>
+					<WidthCode><![CDATA[500]]></WidthCode>
+					<HeightCode><![CDATA[500]]></HeightCode>
+					<ZHeightCode><![CDATA[0]]></ZHeightCode>
+					<ColumnsCountCode><![CDATA[100]]></ColumnsCountCode>
+					<RowsCountCode><![CDATA[100]]></RowsCountCode>
+					<NeigborhoodType>MOORE</NeigborhoodType>
+					<LayoutType>USER_DEF</LayoutType>
+					<NetworkType>USER_DEF</NetworkType>
+					<ConnectionsPerAgentCode><![CDATA[2]]></ConnectionsPerAgentCode>
+					<ConnectionsRangeCode><![CDATA[50]]></ConnectionsRangeCode>
+					<NeighborLinkFractionCode><![CDATA[0.95]]></NeighborLinkFractionCode>
+					<MCode><![CDATA[10]]></MCode>
+			</EnvironmentProperties>
+			<DatasetsCreationProperties>
+				<AutoCreate>true</AutoCreate>
+					<OccurrenceAtTime>true</OccurrenceAtTime>
+					<OccurrenceDate>1739952000000</OccurrenceDate>
+					<OccurrenceTime Class="CodeUnitValue">
+						<Code><![CDATA[0]]></Code>
+						<Unit Class="TimeUnits"><![CDATA[MINUTE]]></Unit>
+					</OccurrenceTime>
+					<RecurrenceCode Class="CodeUnitValue">
+						<Code><![CDATA[1]]></Code>
+						<Unit Class="TimeUnits"><![CDATA[MINUTE]]></Unit>
+					</RecurrenceCode>
+			</DatasetsCreationProperties>
+			<ScaleRuler>
+				<Id>1739898929869</Id>
+				<Name><![CDATA[scale]]></Name>
+				<X>0</X><Y>-150</Y>
+				<PublicFlag>false</PublicFlag>
+				<PresentationFlag>false</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Length>100</Length>
+				<Rotation>0</Rotation>
+				<ScaleType>BASED_ON_LENGTH</ScaleType>
+				<ModelLength>10</ModelLength>
+				<LengthUnits>METER</LengthUnits>
+				<Scale>10</Scale>
+				<InheritedFromParentAgentType>true</InheritedFromParentAgentType>
+			</ScaleRuler>
+			<CurrentLevel>1739898929873</CurrentLevel>
+			<ConnectionsId>1739898929867</ConnectionsId>
+			<AgentLinks>
+				<AgentLink>
+					<Id>1739898929867</Id>
+					<Name><![CDATA[connections]]></Name>
+					<X>50</X><Y>-50</Y>
+					<Label><X>15</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<HandleReceiveInConnections>false</HandleReceiveInConnections>
+					<AgentLinkType>COLLECTION_OF_LINKS</AgentLinkType>
+					<AgentLinkBidirectional>true</AgentLinkBidirectional>
+					<MessageType><![CDATA[Object]]></MessageType>
+					<LineStyle>SOLID</LineStyle>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineZOrder>UNDER_AGENTS</LineZOrder>
+					<LineArrow>NONE</LineArrow>
+					<LineArrowPosition>END</LineArrowPosition>
+				</AgentLink>
+			</AgentLinks>
+
+
+			<Presentation>
+				<Level>
+					<Id>1739898929873</Id>
+					<Name><![CDATA[level]]></Name>
+					<X>0</X><Y>0</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LevelVisibility>DIM_NON_CURRENT</LevelVisibility>
+
+			<Presentation>
+				<Image>
+					<Id>1739898984322</Id>
+					<Name><![CDATA[image]]></Name>
+					<X>-7</X><Y>-8</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Width>14.001</Width>
+					<Height>12.001</Height>
+					<Rotation>0.0</Rotation>
+					<ImageFiles>
+						<ImageResourceReference>
+							<PackageName><![CDATA[superstore]]></PackageName>
+							<ClassName><![CDATA[image8.png]]></ClassName>
+						</ImageResourceReference>
+					</ImageFiles>
+					<OriginalSize>false</OriginalSize>
+				</Image>
 			</Presentation>
 
 				</Level>
@@ -23155,32 +23856,32 @@ for (String category : categories) {
 	</Experiments>
 	<ModelResources>
 		<Resource>
-			<Path><![CDATA[3d/person.dae]]></Path>
+			<Path><![CDATA[image.png]]></Path>
 			<ReferencedFromUserCode>false</ReferencedFromUserCode>
 			<Location>FILE_SYSTEM</Location>
 		</Resource>
 		<Resource>
-			<Path><![CDATA[3d/officeworker.dae]]></Path>
+			<Path><![CDATA[image11.png]]></Path>
 			<ReferencedFromUserCode>false</ReferencedFromUserCode>
 			<Location>FILE_SYSTEM</Location>
 		</Resource>
 		<Resource>
-			<Path><![CDATA[3d/worker.dae]]></Path>
+			<Path><![CDATA[image2.png]]></Path>
 			<ReferencedFromUserCode>false</ReferencedFromUserCode>
 			<Location>FILE_SYSTEM</Location>
 		</Resource>
 		<Resource>
-			<Path><![CDATA[3d/cart.dae]]></Path>
+			<Path><![CDATA[image3.png]]></Path>
 			<ReferencedFromUserCode>false</ReferencedFromUserCode>
 			<Location>FILE_SYSTEM</Location>
 		</Resource>
 		<Resource>
-			<Path><![CDATA[3d/box_1_closed.dae]]></Path>
+			<Path><![CDATA[image4.png]]></Path>
 			<ReferencedFromUserCode>false</ReferencedFromUserCode>
 			<Location>FILE_SYSTEM</Location>
 		</Resource>
 		<Resource>
-			<Path><![CDATA[3d/cash_desk.dae]]></Path>
+			<Path><![CDATA[image8.png]]></Path>
 			<ReferencedFromUserCode>false</ReferencedFromUserCode>
 			<Location>FILE_SYSTEM</Location>
 		</Resource>
