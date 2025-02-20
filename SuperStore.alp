@@ -9448,7 +9448,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 						<Parameter>
 							<Name><![CDATA[condition]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[agent.productCounter >= 7]]></Code>
+								<Code><![CDATA[(paymentService.size() < automaticPaymentService.size()) || ((paymentService.size() == automaticPaymentService.size()) && (agent.productCounter >= 7))]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
@@ -9706,7 +9706,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 						<Parameter>
 							<Name><![CDATA[delayTime]]></Name>
 							<Value Class="CodeUnitValue">
-								<Code><![CDATA[triangular( 2, 5, 7 )]]></Code>
+								<Code><![CDATA[triangular( 1, 3, 7 )]]></Code>
 								<Unit Class="TimeUnits"><![CDATA[MINUTE]]></Unit>
 							</Value>
 						</Parameter>
