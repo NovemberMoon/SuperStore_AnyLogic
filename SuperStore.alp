@@ -1034,13 +1034,13 @@
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
 						<Point><X>0</X><Y>310</Y></Point>
-						<Point><X>80</X><Y>310</Y></Point>
+						<Point><X>40</X><Y>310</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1739702587265</Id>
 					<Name><![CDATA[connector30]]></Name>
-					<X>1280</X><Y>540</Y>
+					<X>1240</X><Y>540</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1058,24 +1058,24 @@
 					<TargetEmbeddedObjectReference>
 						<PackageName><![CDATA[superstore]]></PackageName>
 						<ClassName><![CDATA[Main]]></ClassName>
-						<ItemName><![CDATA[hasBasket]]></ItemName>
+						<ItemName><![CDATA[moveTo]]></ItemName>
 					</TargetEmbeddedObjectReference>
 					<TargetConnectableItemReference>
 						<PackageName><![CDATA[com.anylogic.libraries.processmodeling]]></PackageName>
-						<ClassName><![CDATA[SelectOutput]]></ClassName>
+						<ClassName><![CDATA[MoveTo]]></ClassName>
 						<ItemName><![CDATA[in]]></ItemName>
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>30</X><Y>0</Y></Point>
-						<Point><X>30</X><Y>50</Y></Point>
-						<Point><X>60</X><Y>50</Y></Point>
+						<Point><X>20</X><Y>0</Y></Point>
+						<Point><X>20</X><Y>50</Y></Point>
+						<Point><X>40</X><Y>50</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1739702587267</Id>
 					<Name><![CDATA[connector31]]></Name>
-					<X>1190</X><Y>540</Y>
+					<X>1150</X><Y>540</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1108,7 +1108,7 @@
 				<Connector>
 					<Id>1739702587269</Id>
 					<Name><![CDATA[connector43]]></Name>
-					<X>1060</X><Y>590</Y>
+					<X>1020</X><Y>590</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1143,7 +1143,7 @@
 				<Connector>
 					<Id>1739702587271</Id>
 					<Name><![CDATA[connector45]]></Name>
-					<X>1240</X><Y>640</Y>
+					<X>1200</X><Y>640</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1176,7 +1176,7 @@
 				<Connector>
 					<Id>1739702587273</Id>
 					<Name><![CDATA[connector46]]></Name>
-					<X>1280</X><Y>640</Y>
+					<X>1240</X><Y>640</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1194,24 +1194,24 @@
 					<TargetEmbeddedObjectReference>
 						<PackageName><![CDATA[superstore]]></PackageName>
 						<ClassName><![CDATA[Main]]></ClassName>
-						<ItemName><![CDATA[hasBasket]]></ItemName>
+						<ItemName><![CDATA[moveTo]]></ItemName>
 					</TargetEmbeddedObjectReference>
 					<TargetConnectableItemReference>
 						<PackageName><![CDATA[com.anylogic.libraries.processmodeling]]></PackageName>
-						<ClassName><![CDATA[SelectOutput]]></ClassName>
+						<ClassName><![CDATA[MoveTo]]></ClassName>
 						<ItemName><![CDATA[in]]></ItemName>
 					</TargetConnectableItemReference>
 					<Points>
 						<Point><X>0</X><Y>0</Y></Point>
-						<Point><X>30</X><Y>0</Y></Point>
-						<Point><X>30</X><Y>-50</Y></Point>
-						<Point><X>60</X><Y>-50</Y></Point>
+						<Point><X>20</X><Y>0</Y></Point>
+						<Point><X>20</X><Y>-50</Y></Point>
+						<Point><X>40</X><Y>-50</Y></Point>
 					</Points>
 				</Connector>
 				<Connector>
 					<Id>1739702587275</Id>
 					<Name><![CDATA[connector44]]></Name>
-					<X>1150</X><Y>640</Y>
+					<X>1110</X><Y>640</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -2605,6 +2605,39 @@
 						<Point><X>40</X><Y>0</Y></Point>
 					</Points>
 				</Connector>
+				<Connector>
+					<Id>1741101451648</Id>
+					<Name><![CDATA[connector72]]></Name>
+					<X>1320</X><Y>590</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<SourceEmbeddedObjectReference>
+						<PackageName><![CDATA[superstore]]></PackageName>
+						<ClassName><![CDATA[Main]]></ClassName>
+						<ItemName><![CDATA[moveTo]]></ItemName>
+					</SourceEmbeddedObjectReference>
+					<SourceConnectableItemReference>
+						<PackageName><![CDATA[com.anylogic.libraries.processmodeling]]></PackageName>
+						<ClassName><![CDATA[MoveTo]]></ClassName>
+						<ItemName><![CDATA[out]]></ItemName>
+					</SourceConnectableItemReference>
+					<TargetEmbeddedObjectReference>
+						<PackageName><![CDATA[superstore]]></PackageName>
+						<ClassName><![CDATA[Main]]></ClassName>
+						<ItemName><![CDATA[hasBasket]]></ItemName>
+					</TargetEmbeddedObjectReference>
+					<TargetConnectableItemReference>
+						<PackageName><![CDATA[com.anylogic.libraries.processmodeling]]></PackageName>
+						<ClassName><![CDATA[SelectOutput]]></ClassName>
+						<ItemName><![CDATA[in]]></ItemName>
+					</TargetConnectableItemReference>
+					<Points>
+						<Point><X>0</X><Y>0</Y></Point>
+						<Point><X>20</X><Y>0</Y></Point>
+					</Points>
+				</Connector>
 			</Connectors>
 			<Schedules>
 				<Schedule>
@@ -3980,7 +4013,7 @@
 					<Id>1739696561590</Id>
 					<Name><![CDATA[takeCart]]></Name>
 					<X>790</X><Y>210</Y>
-					<Label><X>0</X><Y>-10</Y></Label>
+					<Label><X>-5</X><Y>-10</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>true</ShowLabel>
@@ -9478,7 +9511,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 				<EmbeddedObject>
 					<Id>1739702587058</Id>
 					<Name><![CDATA[cashierService]]></Name>
-					<X>1240</X><Y>520</Y>
+					<X>1200</X><Y>520</Y>
 					<Label><X>-10</X><Y>-10</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -9692,7 +9725,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 				<EmbeddedObject>
 					<Id>1739702587107</Id>
 					<Name><![CDATA[moveToCashier]]></Name>
-					<X>1150</X><Y>520</Y>
+					<X>1110</X><Y>520</Y>
 					<Label><X>-30</X><Y>-10</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -9845,7 +9878,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 				<EmbeddedObject>
 					<Id>1739702587142</Id>
 					<Name><![CDATA[choosePaymentService]]></Name>
-					<X>1030</X><Y>580</Y>
+					<X>990</X><Y>580</Y>
 					<Label><X>-60</X><Y>-25</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -9926,7 +9959,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 				<EmbeddedObject>
 					<Id>1739702587153</Id>
 					<Name><![CDATA[moveToSCO]]></Name>
-					<X>1150</X><Y>620</Y>
+					<X>1110</X><Y>620</Y>
 					<Label><X>-25</X><Y>-10</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -10076,7 +10109,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 				<EmbeddedObject>
 					<Id>1739702587188</Id>
 					<Name><![CDATA[SCOService]]></Name>
-					<X>1240</X><Y>620</Y>
+					<X>1200</X><Y>620</Y>
 					<Label><X>-20</X><Y>-10</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -16752,6 +16785,147 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<QuantityColumn>
 					</QuantityColumn>
 				</EmbeddedObject>
+				<EmbeddedObject>
+					<Id>1741101431736</Id>
+					<Name><![CDATA[moveTo]]></Name>
+					<X>1280</X><Y>570</Y>
+					<Label><X>-15</X><Y>-15</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<ActiveObjectClass>
+						<PackageName><![CDATA[com.anylogic.libraries.processmodeling]]></PackageName>
+						<ClassName><![CDATA[MoveTo]]></ClassName>
+					</ActiveObjectClass>
+					<GenericParameterSubstitute>
+						<GenericParameterSubstituteReference>
+							<PackageName><![CDATA[com.anylogic.libraries.processmodeling]]></PackageName>
+							<ClassName><![CDATA[MoveTo]]></ClassName>
+							<ItemName><![CDATA[1412336243157]]></ItemName>
+						</GenericParameterSubstituteReference>
+					</GenericParameterSubstitute>
+					<Parameters>
+						<Parameter>
+							<Name><![CDATA[mode]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationType]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationNode]]></Name>
+							<Value Class="CodeValue">
+								<Code><![CDATA[node18]]></Code>
+							</Value>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationAttractor]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationResource]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationAgent]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationX]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationY]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationZ]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationLatitude]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationLongitude]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationGeoPlaceName]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationInNetwork]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationNetwork]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationLevel]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[useOffsets]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[offsetX]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[offsetY]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[offsetZ]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[straightMovement]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationUseRotation]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationRotation]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[destinationVerticalRotation]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[movementType]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[tripTime]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[setSpeed]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[speed]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[restoreSpeedOnArrival]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onEnter]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onExit]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onRemove]]></Name>
+						</Parameter>
+					</Parameters>
+					<ReplicationFlag>false</ReplicationFlag>
+					<Replication Class="CodeValue">
+						<Code><![CDATA[100]]></Code>
+					</Replication>
+					<CollectionType>ARRAY_LIST_BASED</CollectionType>
+					<InitialLocationType>XYZ</InitialLocationType>
+					<ColumnCode Class="CodeValue">
+						<Code><![CDATA[0]]></Code>
+					</ColumnCode>
+					<RowCode Class="CodeValue">
+						<Code><![CDATA[0]]></Code>
+					</RowCode>
+					<LocationNameCode Class="CodeValue">
+						<Code><![CDATA[""]]></Code>
+					</LocationNameCode>
+					<InitializationType>SPECIFIED_NUMBER</InitializationType>
+					<InitializationDatabaseTableQuery>
+						<TableReference>
+						</TableReference>
+					</InitializationDatabaseTableQuery>
+					<InitializationDatabaseType>ONE_AGENT_PER_DATABASE_RECORD</InitializationDatabaseType>
+					<QuantityColumn>
+					</QuantityColumn>
+				</EmbeddedObject>
 			</EmbeddedObjects>
 
 			<Presentation>
@@ -20759,7 +20933,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1739717621328</Id>
@@ -20771,7 +20945,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1739717623373</Id>
@@ -20783,7 +20957,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1739741976306</Id>
@@ -20795,7 +20969,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1739741979159</Id>
@@ -20807,7 +20981,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 			</Presentation>
 
@@ -20979,7 +21153,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1739717595091</Id>
@@ -20991,7 +21165,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1739717598009</Id>
@@ -21003,7 +21177,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1739741985388</Id>
@@ -21015,7 +21189,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1739741987779</Id>
@@ -21027,7 +21201,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 			</Presentation>
 
@@ -21529,7 +21703,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1739717561378</Id>
@@ -21541,7 +21715,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1739717564295</Id>
@@ -21553,7 +21727,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1739741961070</Id>
@@ -21565,7 +21739,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1739741967669</Id>
@@ -21577,7 +21751,7 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 			</Presentation>
 
@@ -23983,19 +24157,6 @@ agent.shoppingList.remove("HouseholdProducts");]]></Code>
 					<Height>210</Height>
 					<Rotation>0.0</Rotation>
 				</RectangleNode>
-				<Control Type="Window3D">
-					<Id>1741029363026</Id>
-					<Name><![CDATA[window3d]]></Name>
-					<X>480</X><Y>1270</Y>
-					<Width>500</Width>
-					<Height>300</Height>
-					<MakeDefaultViewArea>true</MakeDefaultViewArea>
-					<Label><X>0</X><Y>-10</Y></Label>
-					<ShowLabel>false</ShowLabel>
-					<FollowCamera>false</FollowCamera>
-					<NavigationType>full</NavigationType>
-					<FarClippingDistance>2000</FarClippingDistance>
-				</Control>
 			</Presentation>
 
 				</Level>
